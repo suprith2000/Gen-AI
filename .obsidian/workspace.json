@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "Outline of 1. Resources"
             }
+          },
+          {
+            "id": "0ad9d3a481bcc177",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
