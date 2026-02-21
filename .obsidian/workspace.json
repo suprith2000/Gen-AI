@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompting/1. expense tracking application/2. Exercise Build Multiple Versions of a Feature with Best of N.md",
+                "file": "Prompting/1. expense tracking application - claude code/9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Exercise Build Multiple Versions of a Feature with Best of N"
+              "title": "9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompting/1. expense tracking application/2. Exercise Build Multiple Versions of a Feature with Best of N.md",
+                "file": "Prompting/1. expense tracking application - claude code/9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Exercise Build Multiple Versions of a Feature with Best of N"
+              "title": "Backlinks for 9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompting/1. expense tracking application/2. Exercise Build Multiple Versions of a Feature with Best of N.md",
+                "file": "Prompting/1. expense tracking application - claude code/9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Exercise Build Multiple Versions of a Feature with Best of N"
+              "title": "Outgoing links from 9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompting/1. expense tracking application/2. Exercise Build Multiple Versions of a Feature with Best of N.md",
+                "file": "Prompting/1. expense tracking application - claude code/9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Exercise Build Multiple Versions of a Feature with Best of N"
+              "title": "Outline of 9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees"
             }
           },
           {
@@ -197,9 +197,16 @@
   },
   "active": "ed63afb5896d41ef",
   "lastOpenFiles": [
-    "Prompting/1. expense tracking application/1. prompt  - To build expense tracking application.md",
-    "Prompting/1. expense tracking application/2. Exercise Build Multiple Versions of a Feature with Best of N.md",
-    "Prompting/1. expense tracking application",
+    "Prompting/1. expense tracking application - claude code/8. Claude Subagents & Tasks.md",
+    "Prompting/1. expense tracking application - claude code/9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees.md",
+    "Prompting/1. expense tracking application - claude code/7. Allowing Claude Code to Work in Parallel with Git Worktrees.md",
+    "Prompting/1. expense tracking application - claude code/6. Exercise - Building a Documentation Generator.md",
+    "Prompting/1. expense tracking application - claude code/5. Creating Claude Commands.md",
+    "Prompting/1. expense tracking application - claude code/4. Writing Claude.md Files.md",
+    "Prompting/1. expense tracking application - claude code/3. Exercise - AI Evaluation of Code & Feature Implementations.md",
+    "Prompting/1. expense tracking application - claude code/2. Exercise  - Build Multiple Versions of a Feature with Best of N.md",
+    "Prompting/1. expense tracking application - claude code/1. prompt  - To build expense tracking application.md",
+    "Prompting/1. expense tracking application - claude code",
     "AI Resources/1. Roadmap.md",
     "Prompting",
     "AI Resources/2. AI Tool Categories.md",
