@@ -195,8 +195,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ed63afb5896d41ef",
+  "active": "0ad9d3a481bcc177",
   "lastOpenFiles": [
+    "README.md",
     "Prompting/1. expense tracking application - claude code/8. Claude Subagents & Tasks.md",
     "Prompting/1. expense tracking application - claude code/9. Parallel Feature Development with Subagents, Tasks, and Git Worktrees.md",
     "Prompting/1. expense tracking application - claude code/7. Allowing Claude Code to Work in Parallel with Git Worktrees.md",
